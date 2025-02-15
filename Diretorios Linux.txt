@@ -1,4 +1,4 @@
-/: É o diretório raiz como se fosse o C: no windows.
+/: É o diretório raiz como se fosse o C: no windows
 /home: É onde ficam os diretórios de trabalho de cada usuário semelhante a users no windows.
 /root: É o diretório home do super usuário do linux chamado de root.
 /bin: É onde ficam os principais comandos do linux (cat, su, rm, pwd).
